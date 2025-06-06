@@ -12,8 +12,7 @@ on:
         type: choice
         options:
           - MT7981
-          - MT7986
-          - TEST
+
       SOURCE:
         default: '/hanimeia/nekk2105han'
         required: true
